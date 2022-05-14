@@ -1,0 +1,41 @@
+.profile {
+  display: flex;
+  align-items: center;
+}
+
+.card_profile {
+  margin: 0 auto;
+}
+
+.h1_name {
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: 0.02rem;
+  line-height: 1.6;
+  color: #000;
+}
+
+@media (max-width: 544px) {
+  .h1_name {
+    font-size: 1.5rem;
+  }
+}
+
+.h2_subtitle {
+  font-size: 1.3rem;
+  letter-spacing: 0.02rem;
+  line-height: 1.6;
+  font-weight: 400;
+  color: #444;
+}
+
+@media (max-width: 544px) {
+  .h2_subtitle {
+    font-size: 1.1rem;
+  }
+}
+
+.pic {
+  border-radius: 50%;
+  max-width: 8rem;
+}
