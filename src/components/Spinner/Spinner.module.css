@@ -4,7 +4,7 @@
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  border-left-color: #09f;
+  border-left-color: #000;
 
   animation: spin 1s linear infinite;
 }
