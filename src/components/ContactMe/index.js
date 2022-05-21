@@ -1,5 +1,7 @@
 import React from "react";
 import styles from "./ContactMe.module.css";
+import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
+import { GoMail } from "react-icons/go";
 
 export default function ContactMe() {
   return (
@@ -22,34 +24,34 @@ export default function ContactMe() {
         </a>
       </p>
       <ul className="list-unstyled list-inline text-center my-5">
-        <li className="list-inline-item">
+        <li className={`list-inline-item ${styles.item}`}>
           <a
             href="https://github.com/sherlock28"
             className="btn-floating btn-li"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className={`${styles.item_contact} fab fa-github`}></i>
+            <i className={`${styles.item_contact}`}><FaGithub /></i>
           </a>
         </li>
-        <li className="list-inline-item">
+        <li className={`list-inline-item ${styles.item}`}>
           <a
             href="mailto:caceresvictorrodolfo@gmail.com"
             className="btn-floating btn-li"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className={`${styles.item_contact} fas fa-envelope mx-4`}></i>
+            <i className={`${styles.item_contact}`}><GoMail /></i>
           </a>
         </li>
-        <li className="list-inline-item">
+        <li className={`list-inline-item ${styles.item}`}>
           <a
             href="https://www.linkedin.com/in/vcaceres"
             className="btn-floating btn-li"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className={`${styles.item_contact} fab fa-linkedin-in`}></i>
+            <i className={`${styles.item_contact}`}><FaLinkedinIn /></i>
           </a>
         </li>
       </ul>

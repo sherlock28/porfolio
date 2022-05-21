@@ -4,8 +4,12 @@
   color: #000;
 }
 
+.item {
+  padding: 1.5em;
+}
+
 .item_contact {
-  color: #000;
+  color: #444;
   text-shadow: 1px 1px 1px #ccc;
   font-size: 2.5em;
 }

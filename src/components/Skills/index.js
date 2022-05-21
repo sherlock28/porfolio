@@ -13,18 +13,18 @@ export default function Skills() {
       </h3>
       <div className="container">
         <div className="row row-cols-4">
-          <div className="col"><i className="h1"><AiFillHtml5 /></i></div>
-          <div className="col"><i className="h1"><DiCss3 /></i></div>
-          <div className="col"><i className="h1"><SiJavascript /></i></div>
-          <div className="col"><i className="h1"><FaNodeJs /></i></div>
-          <div className="col"><i className="h1"><FaReact /></i></div>
-          <div className="col"><i className="h1"><FaVuejs /></i></div>
-          <div className="col"><i className="h1"><FaBootstrap /></i></div>
-          <div className="col"><i className="h1"><SiChakraui /></i></div>
-          <div className="col"><i className="h1"><SiCsharp /></i></div>
-          <div className="col"><i className="h1"><SiMysql/></i></div>
-          <div className="col"><i className="h1"><SiPostgresql /></i></div>
-          <div className="col"><i className="h1"><SiMongodb /></i></div>
+          <div className="col p-3"><i className="h1"><AiFillHtml5 /></i></div>
+          <div className="col p-3"><i className="h1"><DiCss3 /></i></div>
+          <div className="col p-3"><i className="h1"><SiJavascript /></i></div>
+          <div className="col p-3"><i className="h1"><FaNodeJs /></i></div>
+          <div className="col p-3"><i className="h1"><FaReact /></i></div>
+          <div className="col p-3"><i className="h1"><FaVuejs /></i></div>
+          <div className="col p-3"><i className="h1"><FaBootstrap /></i></div>
+          <div className="col p-3"><i className="h1"><SiChakraui /></i></div>
+          <div className="col p-3"><i className="h1"><SiCsharp /></i></div>
+          <div className="col p-3"><i className="h1"><SiMysql/></i></div>
+          <div className="col p-3"><i className="h1"><SiPostgresql /></i></div>
+          <div className="col p-3"><i className="h1"><SiMongodb /></i></div>
         </div>
       </div>
     </div>
