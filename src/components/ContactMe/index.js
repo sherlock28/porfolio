@@ -14,7 +14,7 @@ export default function ContactMe() {
         on github or linkedin, or send me a message by email, I will answer as
         soon as possible. You can also see my resume here:{" "}
         <a
-          href="https://drive.google.com/file/d/1dbwZoh4JB-klrqGWXl_3vGaP57QOQunV/view?usp=sharing"
+          href="https://drive.google.com/file/d/1Blkk9GA9MLY6LAgnbcNVfYoSm_AAHje3/view?usp=sharing"
           className={`${styles.link}`}
           target="_blank"
           rel="noopener noreferrer"
