@@ -14,8 +14,7 @@ export default function Profile() {
             Victor Rodolfo Cáceres
           </h1>
           <p className={`text-center ${styles.h2_subtitle}`}>
-            Hello 👋, My name is Rodolfo, I'm from Argentina and I'm a Full
-            Stack Developer. I have experience working with ReactJS, NodeJS and also a little with Java and OOP. I studied Engineering in information systems at UTN. I'm passionate about technology, creating new things.
+            Hello! 👋 My name is Rodolfo, I'm from Argentina and work as a Full Stack Developer. I have experience working with .Net Core, PHP, Javascript, ReactJS, NodeJS, Vue.js, as well as tools like Ansible, Docker, Kubernetes, Openshift, and Argo CD. I studied Information Systems Engineering at UTN. I'm passionate about technology and learning new things from it.
           </p>
         </div>
       </div>
